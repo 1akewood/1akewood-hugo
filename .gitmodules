@@ -1,3 +1,10 @@
 [submodule "hugo-theme-learn"]
 	path = hugo-theme-learn
 	url = https://github.com/matcornic/hugo-theme-learn.git
+[submodule "themes/hugo-theme-learn"]
+	path = themes/hugo-theme-learn
+	url = https://github.com/matcornic/hugo-theme-learn.git
+[submodule "public/public"]
+	path = public/public
+	url = https://github.com/1akewood/1akewood.github.io
+	branch = main
